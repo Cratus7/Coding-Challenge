@@ -1,0 +1,83 @@
+body{
+  background-image: url("background.jpg");
+  background-size: cover;
+  width: 1200px;
+  margin: auto;
+
+}
+.bloccoCentraleOpacita{
+  background-color: black;
+  background: rgba(0, 0, 0, 0.5);
+  background-size: cover;
+  width: 1200px;
+  height: 800px;
+  margin-top: 30px;
+  border-radius: 2%;
+}
+.divLogo{
+
+}
+.Logo{
+  width: 200px;
+  display:block;
+  margin:0px auto;
+  text-align:center;
+  padding-top: 100px;
+  color: red;
+}
+.Titolo{
+  color: #66ff00;
+  text-align: center;
+  font-style: normal;
+}
+.navigation{
+  background-color: green;
+  text-align: center;
+  width: 1000px;
+  margin: auto;
+  padding: 10px;
+}
+.divMonopattino{
+  padding-left: 85px;
+}
+.areaTitolo{
+  display: inline-block;
+  color: white;
+  padding-left: 2px;
+  padding-top: 20px;
+  font-size: 25px;
+}
+.freccetta{
+  color: white;
+}
+.via{
+  color: white;
+}
+.divIndirizzo{
+  padding-left: 85px;
+}
+.carica{
+  padding-left: 85px;
+  color: white;
+}
+.footerMonopattino1{
+  background-color: orange;
+  width: 280px;
+  height: 20px;
+  margin-left: 85px;
+  border-radius: 3px;
+}
+.footerMonopattino2{
+  background-color: green;
+  width: 500px;
+  height: 20px;
+  margin-left: 85px;
+  border-radius: 3px;
+}
+.footerMonopattino3{
+  background-color: red;
+  width: 150px;
+  height: 20px;
+  margin-left: 85px;
+  border-radius: 3px;
+}
